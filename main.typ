@@ -21,7 +21,7 @@
 
 == Presentation
 
-A patient presents with a complaint of severe back pain. He is a student who recently completed a period of intensive studying, involving prolonged sitting at his desk. The patient acknowledges being in poor physical condition. On the day following his exams, he decided to clean his room, which he had neglected during his study period. While attempting to lift and move his desk to vacuum the floor, he experienced a sudden, sharp back pain that radiated to his right lower leg. In distress, he called 911. Paramedics responded promptly and transported him to the neurological department, fortunately you are the neurosurgeon on call.
+#wideblock[A patient presents with a complaint of severe back pain. He is a student who recently completed a period of intensive studying, involving prolonged sitting at his desk. The patient acknowledges being in poor physical condition. On the day following his exams, he decided to clean his room, which he had neglected during his study period. While attempting to lift and move his desk to vacuum the floor, he experienced a sudden, sharp back pain that radiated to his right lower leg. In distress, he called 911. Paramedics responded promptly and transported him to the neurological department, fortunately you are the neurosurgeon on call.]
 
 == Relavant Anatomical Background
 
@@ -41,7 +41,7 @@ The spinal cord is organized into nerve roots each of which exit from the gaps w
 #note([
   #figure(
     image("images/cervical-vertebra.png"),
-    caption:[This is a little figure in the sidenotes.]
+    caption:[A figure showing a cross section through a vertebral bone.]
   ) <fig:cervical-vertebra>
 ],
 dy:-3in,
@@ -52,14 +52,15 @@ Along the entire length of the spinal cord, 31 pairs of spinal nerves consist of
 == Lumbar Disk Herniation
 
 #wideblock[
+  Now coming back to the question of the medical student's injury, the herniation occurred on the right side and was relatively small. This herniation occurred between L5 and S1 spinal cord levels and the posterior (dorsal) roots of the spinal cord were compressed. @fig:lumbar-disk-hernia shows the different severities of disk herniations.
+]
+
+#wideblock[
 #figure(
     image("images/spinal-cord-overview.svg", height:40%),
     caption:[The vertebral column and spinal nerves exiting from it.]
   ) <fig:vertebral-column>
 ]
-
-
-Now coming back to the question of the medical student's injury, the herniation occurred on the right side and was relatively small. This herniation occurred between L5 and S1 spinal cord levels and the posterior (dorsal) roots of the spinal cord were compressed. @fig:lumbar-disk-hernia shows the different severities of disk herniations.
 
 It is clearly visible how the contents of the intervertebral disks may compress the spinal nerves. See @fig:intervertebral-disk for a visualization. The symptoms may be motor or sensory function abnormalities.
 
@@ -70,10 +71,10 @@ It is clearly visible how the contents of the intervertebral disks may compress 
     caption:[Lumbar Disk Herniation visualization]
   ) <fig:lumbar-disk-hernia>
 ],
-dy:-2in,
+dy:0in,
 numbered:false)
 
-Lumbar disk herniations occour most commonly in the lumbar region#note([see @fig:vertebral-column], dy:0.3in) as a relatively mobile part of the spinal cord meets the relatively immobile sacral part of the spinal cord. This area is also more common as the entire weight of the head and the thorax and the weight lifted by the upper limb is transmitted towards the legs through this region.
+Lumbar disk herniations occour most commonly in the lumbar region#note([see @fig:vertebral-column], dy:-0.6in) as a relatively mobile part of the spinal cord meets the relatively immobile sacral part of the spinal cord. This area is also more common as the entire weight of the head and the thorax and the weight lifted by the upper limb is transmitted towards the legs through this region.
 
 @fig:lumbar-disk-hernia shows the pathology. The blue part in the intervertebral disk is the nucleus pulposus while the while part is the annulus fibrosus. The nucleus pulposus can be seen being squeezed into the cavity of the spinal cord where it compresses the nerves.
 
@@ -89,7 +90,7 @@ This can lead to pain being felt in the leg on the side where the nerve is being
 = Case 2
 
 == Presentation
-A man was involved in a motor car accident. The car hit the person head-on. First responders noticed that the person's breathing was severely affected. What is the major muscle controlling respiration?
+A man was involved in a motor car accident. The car hit the person head-on. First responders noticed that the person's breathing was severely affected. What is the major muscle controlling respiration and how is injury to the spinal cord related to breathing?
 
 == Relavant Anatomical Background
 
@@ -105,4 +106,52 @@ dy:-3.3in,
 numbered:false,
 )
 
-#pagebreak()
+The spinal nerves C3 to C5#note[These are the nerves that exit from the cervical spinal cord levels of 5th, 6th and 7th vertebrae.] which are known as phrenic nerves innervate the diaphragm. If the spinal cord is damaged above this level, control of the diaphragm is lost which could lead to death.
+
+= Case 3
+
+== Presentation
+
+A person complains of continuous and severe headaches, high fever, stiff neck and drowsiness#note[Most of the time headaches and fever are common complaints from patients and can be safely treated by prescribing an over-the-counter painkiller but if they accompany neurological symptoms, such as drowsiness or excessive sleeping or confusion, then a neurologist must take precautions to rule out more serious underlying causes.]. As a neurologist, how do you manage the patient?
+
+== Relavant Anatomical Background
+
+The person is suspected of having meningitis. It is an inflammation of the layers covering the brain and the spinal cord. @fig:meninges shows the layers over the surface of the brain.
+
+The layers in order from outside to inside are:
+1. Dura Mater
+2. Arachnoid Mater
+3. Pia Mater
+
+The Dura Mater is the toughest outer covering over the brain. It lies directly beneath the bone#note[Seeing @fig:meninges will help to visualize the concepts here.]. The Arachnoid Mater contains the subarachnoid space#note([Where the CerebroSpinal Fluid is circulating.], dy:0.1in). The Pia Mater is a thin layer that directly covers the surface of the brain and is usually transparent.
+
+To obtain a sample of CSF, a lumbar puncture or a spinal tap may be performed. @fig:lumbar-puncture shows an image.
+
+#figure(
+  image("images/lumbar-puncture.png"),
+  caption: [A lumbar puncture procedure]
+) <fig:lumbar-puncture>
+
+
+
+#wideblock([
+  #figure(
+    image("images/meninges.png"),
+    caption: [Image with the 3 coverings of the nervous system labelled. Namely the Dura, Arachnoid and Pia Mater. The subarachnoid space (the web-like space between the Arachnoid and Pia Mater) is also visible.]
+  ) <fig:meninges>
+])
+
+A lumbar puncture procedure may be performed to withdraw a sample of CSF to check for infections (such as meningitis in our case) or to inject drugs in response to infections or induce anesthesia#note[This is the case for having a painless childbirth. The mother will not feel the contraction during the first stage of labour. For more details, search for 'Caudal Analgesia for Labour'.].
+
+One extremely important feature of our spinal cord is that the nervous tissue (of adults) ends at the level of L1 vertebra but the subarachnoid space (containing the CSF) extends until the level of S2#note([For a visualization of specific levels of the spinal cord, refer to @fig:vertebral-column], dy:0.1in). A needle inserted into this space here, will generally not damage the spinal nerves as they will be pushed to one side owing to the fact that there is a lot of space here for the spinal cord.
+
+@fig:lumbar-puncture-level shows the level of the lumbar puncture procedure. At the level of L4, the illiac crest of the illiac part of the hip bone can be felt. This a safe site for this procedure.
+
+#figure(
+  image("images/level-of-lumbar-puncture.png"),
+  caption: [An image showing imporatant vertebral column levels.]
+) <fig:lumbar-puncture-level>
+
+#wideblock[After a small amount of local anesthetic, the physician can pass a spinal needle just above the L4 spinal level. After inserting the needle, depending upon the physique  of the patient as for a child, the needle may have to be inserted just 1cm while for an obese adult, the physician may have to intert the needle 10cm into the lumbar spine.
+
+This needle can be used to retrieve a small sample of the CSF for examination. The CSF pressure can be measured as well. The spinal needle fitted with a manometer can measure the CSF pressure where higher or lower values of the pressure indicate different problems. The normal pressure is around 60 to 150 mm of water.]
