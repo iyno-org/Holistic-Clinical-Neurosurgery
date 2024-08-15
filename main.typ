@@ -77,8 +77,6 @@ Lumbar disk herniations occour most commonly in the lumbar region#note([see @fig
 
 @fig:lumbar-disk-hernia shows the pathology. The blue part in the intervertebral disk is the nucleus pulposus while the while part is the annulus fibrosus. The nucleus pulposus can be seen being squeezed into the cavity of the spinal cord where it compresses the nerves.
 
-
-
 #wideblock[
 #figure(
     image("images/intervertebral-disk.svg"),
@@ -86,9 +84,25 @@ Lumbar disk herniations occour most commonly in the lumbar region#note([see @fig
   ) <fig:intervertebral-disk>
 ]
 
-this is tn
+This can lead to pain being felt in the leg on the side where the nerve is being compressed. As was the case of our student, his spinal nerves L5 and S1 were most probably compressed leading to him experiencing the pain. His condition is known as 'Sciatica'#note([Compression of the sensory roots will lead to pain being felt while compression of the motor roots will produce weakness of the muscles.], dy:-1.2in).
 
 = Case 2
-breathing stopped as spinal cord was sectioned aboved c3. why?
+
+== Presentation
+A man was involved in a motor car accident. The car hit the person head-on. First responders noticed that the person's breathing was severely affected. What is the major muscle controlling respiration?
+
+== Relavant Anatomical Background
+
+The major muscle controlling respiration is the Diaphragm. It is located below the lungs and can be seen in @fig:diaphragm. Its contraction leads to the increase in volume of the thoracic cavity which causes the lungs to fill up with air#note[Further anatomical details of the diaphragm are beyond the scope of this book but more information can be found in Gray's Basic Anatomy section on Thorox and the heading is Diaphragm]. 
+
+#note([
+  #figure(
+    image("images/diaphragm.svg"),
+    caption:[Diagram showing the position of the diaphragm.]
+  ) <fig:diaphragm>
+],
+dy:-3.3in,
+numbered:false,
+)
 
 #pagebreak()
