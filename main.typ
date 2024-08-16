@@ -165,8 +165,10 @@ numbered: false)
 ) <fig:lumbar-puncture-level>
 ], numbered: false)
 
-#[After a small amount of local anesthetic, the physician can pass a spinal needle just above the L4 spinal level. After inserting the needle, depending upon the physique  of the patient as for a child, the needle may have to be inserted just 1cm while for an obese adult, the physician may have to intert the needle 10cm into the lumbar spine.
+After administering a small amount of local anesthetic, the physician can insert a spinal needle just above the L4 spinal level. The depth of needle insertion varies depending on the patient's physique. For example, in a child, the needle may only need to be inserted approximately 1 cm, while in an obese adult, it may need to be inserted up to 10 cm into the lumbar spine.
 
-This needle can be used to retrieve a small sample of the CSF for examination. The CSF pressure can be measured as well. The spinal needle fitted with a manometer can measure the CSF pressure where higher or lower values of the pressure indicate different problems. The normal pressure is around 60 to 150 mm of water.]
+This needle is then used to collect a small sample of cerebrospinal fluid (CSF) for laboratory examination. Additionally, the CSF pressure can be measured by attaching a manometer to the spinal needle. Deviations from the normal CSF pressure, which typically ranges from 60 to 150 mm of water, can indicate various medical conditions. Elevated or reduced CSF pressure may be associated with specific neurological or systemic disorders.
+
+Some causes of elevated CSF pressure are: Intracranial Masses, Hydrocephalus, Infections, Trauma, Vascular Issues, Idiopathic Intracranial Hypertension (IIH), Toxins and Metabolic Disorders. Some causes of lowered CSF pressure are: CSF Leak, Dehydration, Overdrainage of CSF, Certain Medications#note([As a side note, the specific causes of elevated and lowered CSF pressure will be discussed in detail in their respective chapters. For instance, intracranial masses, such as brain tumors, can obstruct CSF flow pathways, resulting in increased pressure. Similarly, hematomas, which are accumulations of blood within the cranial cavity, can compress brain tissue and subsequently elevate CSF pressure.], dy:-1in).
 
 #pagebreak()
