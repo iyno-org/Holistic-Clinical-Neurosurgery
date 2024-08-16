@@ -16,7 +16,7 @@ The template can be configured with 13 arguments, which comprise:
 - `title` (`content`, required).
 - `shorttitle` (`content`, optional) displayed in the header if not `none`, otherwise the `title` is displayed instead.
 - `subtitle` (`content`, optional).
-- `authors` (`array`, required) takes the form as in the charged-ieee template #notecite(<Typst2024>) except instead of "department" there is "role" and "location" is ommitted.
+- `authors` (`array`<, required) takes the form as in the charged-ieee template #notecite(<Typst2024>) except instead of "department" there is "role" and "location" is ommitted.
 - `date` (`datetime`, optional) displays the date on the title page if not `none`.
 - `document-number` (`content`, optional) reference number for document's version or some other serialization. Displayed in the header if present.
 #wideblock[
