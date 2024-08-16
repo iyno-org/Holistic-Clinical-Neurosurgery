@@ -27,7 +27,7 @@
 
 This case involves a lumbar disc herniation. To fully comprehend this condition, it's essential to first understand the basic structure and organization of the spinal cord.
 
-The spinal cord is housed within the vertebral canal, which is part of the vertebral column, and is protected by three layers of tissue called the meninges. Structurally, the spinal cord resembles a cylindrical extension of the brain, beginning at the brain's base and extending down to the lumbar region of the vertebral column.#note([Difference between the vertebral column, vertebral canal and the spinal cord.
+The spinal cord is housed within the vertebral canal, which is part of the vertebral column, and is protected by three layers of tissue called the meninges. See @fig:meninges. Structurally, the spinal cord resembles a cylindrical extension of the brain, beginning at the brain's base and extending down to the lumbar region of the vertebral column.#note([Difference between the vertebral column, vertebral canal and the spinal cord.
 
 Vertebral Column: The bony structure that encases and protects the spinal cord.
 
