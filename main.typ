@@ -51,18 +51,15 @@ Throughout the entire length of the spinal cord, there are 31 pairs of spinal ne
 == Lumbar Disk Herniation
 
 #wideblock[
-  Returning to the medical student's injury, the herniation occurred on the right side and was relatively small. This herniation took place between the L5 and S1 levels of the spinal cord, resulting in compression of the posterior (dorsal) roots. @fig:lumbar-disk-hernia illustrates the varying severities of disc herniations.
+  Returning to the medical student's injury, the herniation occurred on the right side and was relatively small. This herniation took place between the L5 and S1 levels of the spinal cord, resulting in compression of the posterior (dorsal) roots. @fig:lumbar-disk-hernia illustrates the varying severities of disc herniations. It is clearly visible how the contents of the intervertebral disks may compress the spinal nerves. See @fig:intervertebral-disk for a visualization. The symptoms may be motor or sensory function abnormalities.
 ]
 
-#[
+#wideblock[
 #figure(
-    image("images/spinal-cord-overview.svg", height:40%),
+    image("images/spinal-cord-overview.png"),
     caption:[The vertebral column and spinal nerves exiting from it @vertebral-column-overview.]
   ) <fig:vertebral-column>
 ]
-
-It is clearly visible how the contents of the intervertebral disks may compress the spinal nerves. See @fig:intervertebral-disk for a visualization. The symptoms may be motor or sensory function abnormalities.
-
 
 #note([
   #figure(
@@ -70,10 +67,10 @@ It is clearly visible how the contents of the intervertebral disks may compress 
     caption:[Lumbar Disk Herniation visualization @lumbar-disk-lesions.]
   ) <fig:lumbar-disk-hernia>
 ],
-dy:0in,
+dy:0.5in,
 numbered:false)
 
-Lumbar disk herniations occour most commonly in the lumbar region#note([see @fig:vertebral-column], dy:-0.6in) as a relatively mobile part of the spinal cord meets the relatively immobile sacral part of the spinal cord. This area is also more common as the entire weight of the head and the thorax and the weight lifted by the upper limb is transmitted towards the legs through this region.
+Lumbar disk herniations occour most commonly in the lumbar region#note([see @fig:vertebral-column], dy:-0.3in) as a relatively mobile part of the spinal cord meets the relatively immobile sacral part of the spinal cord. This area is also more common as the entire weight of the head and the thorax and the weight lifted by the upper limb is transmitted towards the legs through this region.
 
 @fig:lumbar-disk-hernia shows the pathology. The blue part in the intervertebral disk is the nucleus pulposus while the while part is the annulus fibrosus. The nucleus pulposus can be seen being squeezed into the cavity of the spinal cord where it compresses the nerves.
 
