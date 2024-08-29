@@ -54,7 +54,7 @@ The Deltoid muscle is innervated by spinal nerves C5 and C6 and the biceps brach
 
 #figure(
   image("images/Brachial_plexus_from_spine.png"),
-  caption: [The spinal nerves C5 to T1 form the nerves that innervate the muscles of the upper limb#note[The upper limb is the arm and the hand. The lower limb is the thigh, leg and the foot.]@brachial-plexus.]
+  caption: [The spinal nerves C5 to T1 are the nerves that innervate the muscles of the arm and the hands#note([This image shows the .], dy:-1.9in) @brachial-plexus.]
 )
 
 #wideblock[
@@ -65,6 +65,23 @@ This knowledge of which spinal nerve innervates which muscle (or muscles) is kno
   ) <fig:myotome>
 ]
 
+= Case 2
+== Presentation
+A 76-year-old woman presented to the hospital with progressive difficulty walking. Initially, she had been able to ambulate with the assistance of a cane, but over the last day, she became unable to walk altogether. Upon examination, both lower extremities exhibited muscular weakness, increased muscle tone, and hyperreflexia, particularly in the knees where the knee jerk reflex was exaggerated.
+#note([
+  #figure(
+    image("images/patient-2.jpg"),
+    caption: [A woman being examined by a doctor for her legs. @patient-2]
+  )
+],
+dy:-1in,
+numbered:false)
+
+Sensory examination revealed a loss of pain sensation bilaterally below the level of the fifth thoracic dermatome. Additionally, proprioception in both great toes was impaired, and vibratory sense was absent below the level of the fifth thoracic segment.
+
+Suggest a possible diagnosis and what the treatment plan will be. How is pain conducted in the spinal cord and how is vibrational sense conducted. Comment also on the fact as to why the patient had difficulty walking.
+
+== Relevant Anatomical Background
 
 
 #pagebreak()
