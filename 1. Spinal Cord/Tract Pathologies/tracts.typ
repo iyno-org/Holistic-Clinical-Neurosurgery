@@ -53,7 +53,8 @@ The burning pain and hyperesthesia was due to the pressure on the posterior nerv
 The Deltoid muscle is innervated by spinal nerves C5 and C6 and the biceps brachii muscle is innervated by C5, C6 and C7. This knowledge is the reason why the medical student could pinpoint the spinal cord levels where the degeneration had occured.
 
 #figure(
-  image("images/Brachial_plexus_from_spine.png")
+  image("images/Brachial_plexus_from_spine.png"),
+  caption: [The spinal nerves C5 to T1 form the nerves that innervate the muscles of the upper limb#note[The upper limb is the arm and the hand. The lower limb is the thigh, leg and the foot.]@brachial-plexus.]
 )
 
 #wideblock[
@@ -64,6 +65,6 @@ This knowledge of which spinal nerve innervates which muscle (or muscles) is kno
   ) <fig:myotome>
 ]
 
-Smth
+
 
 #pagebreak()
