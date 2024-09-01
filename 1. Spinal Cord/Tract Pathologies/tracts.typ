@@ -84,7 +84,6 @@ Suggest a possible diagnosis and what the treatment plan will be. How is pain co
 == Relevant Anatomical Background
 Radiological Examination showed a small swelling at the level of the first lumbar vertebra. Histological Examination revealed that it was a meningioma. The tumor was removed by performing a laminectomy of the first, second and third lumbar vertebrae and the patient started to recover. Initially walking with a stick and later without one.
 
-The lateral spinothalamic tracts are responsible for pain conduction.
-
+The lateral spinothalamic tracts are responsible for pain conduction. Postural and vibrational sense is transmitted in the posterior white column in the fasciculus cuneatus (for the upper limb) and the fasciculus gacilis (for the lower limb). The difficulty in walking was due to the pressure on the corticospinal tracts in the lateral white column. This ultimately resulted in the paralysis of the muscles of the lower limbs.
 
 #pagebreak()
