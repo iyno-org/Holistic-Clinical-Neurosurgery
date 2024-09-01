@@ -82,6 +82,9 @@ Sensory examination revealed a loss of pain sensation bilaterally below the leve
 Suggest a possible diagnosis and what the treatment plan will be. How is pain conducted in the spinal cord and how is vibrational sense conducted. Comment also on the fact as to why the patient had difficulty walking.
 
 == Relevant Anatomical Background
+Radiological Examination showed a small swelling at the level of the first lumbar vertebra. Histological Examination revealed that it was a meningioma. The tumor was removed by performing a laminectomy of the first, second and third lumbar vertebrae and the patient started to recover. Initially walking with a stick and later without one.
+
+The lateral spinothalamic tracts are responsible for pain conduction.
 
 
 #pagebreak()
