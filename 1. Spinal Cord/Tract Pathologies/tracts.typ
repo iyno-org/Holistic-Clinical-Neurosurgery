@@ -95,4 +95,7 @@ Let us first start with pain conduction. It is conducted through the lateral spi
   ) <fig:tracts>
 ])
 
+=== Lateral Spinothalamic Tract
+
+
 #pagebreak()
